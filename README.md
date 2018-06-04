@@ -3,7 +3,11 @@ This repository is to list example code for The Things Network Adelaide
 
 ## Devices
 
-### TTN Uno (Arduino)
+###  [TTN Uno (Arduino)](https://github.com/growingdatafoundation/ttnadl-examples/tree/master/ttn-uno)
+
+This device is fully confirmed and working on TTN Adelaide
+
+### Seeeduino LoraWAN
 
 ### Pycom LoPy (Micropython)
 
